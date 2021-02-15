@@ -1,2 +1,2 @@
 # Creater_Aryan
-Coding
+This repository is for coding purpose
